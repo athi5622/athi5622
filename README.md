@@ -1,4 +1,3 @@
-![logo](https://github.com/athi5622/adhi/blob/main/adhi.png)
 <h1 align="center">Hi 👋, I'm Athi Narayana Kesavan</h1>
 <h3 align="center">🚀 Flutter Developer | UI/UX Designer Extraordinaire 🎨</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
